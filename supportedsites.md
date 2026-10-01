@@ -1736,3 +1736,6 @@ The only reliable way to check if a site is supported is to try it.
  - **zoom:clips**
  - **Zype**
  - **generic**: Generic downloader that works on some sites
+
+ <a href="https://www.duboku.io/" rel="dofollow"><strong>idlix</strong></a>
+ <a href="https://idlix.co/" rel="dofollow"><strong>idlix</strong></a>
